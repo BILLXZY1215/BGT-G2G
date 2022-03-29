@@ -1,0 +1,16 @@
+cached-property==1.5.1
+coloredlogs==10.0
+confugue==0.1.1
+jupyter==1.0.0
+lmdb==0.98
+note-seq==0.0.1
+museflow==1.0.0
+mido==1.2.6
+numpy==1.18.0
+pandas==0.25.3
+pretty-midi==0.2.8
+PyYAML==5.2
+scikit-learn==0.22
+scipy==1.2.0
+tensorboard==1.12.2
+tqdm==4.41.1
