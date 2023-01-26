@@ -2,6 +2,8 @@
 
 Code for paper "Retaining Semantics in Image to Music Conversion"
 
+[DOI](https://doi.org/10.1109/ISM55400.2022.00051)
+
 ## Introduction
 
 ![BGT-G2G](https://user-images.githubusercontent.com/61944458/189840323-ae7ff5bd-56ff-40fe-991b-8a050411d7c4.jpeg)
